@@ -1,5 +1,7 @@
 # HSV RGB LED strip controller
 
+A 3 knob HSV led strip controller using analogue potentiometers and off the shelf arduino parts. I used some low quality pots, hence heavy filtering involved and I still get flicker. I'm planning to rebuild this using digital pots.
+
 <img src='Images/01.jpg'/>
 
 ### Parts
